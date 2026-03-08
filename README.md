@@ -90,7 +90,7 @@ This tool is ideal for cybersecurity learners, ethical hackers, sysadmins, and a
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YourUsername/password-builder.git
+git clone https://github.com/Vishalmani-11/password-builder.git
 cd password-builder
 ```
 
